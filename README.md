@@ -42,4 +42,4 @@ The main challenge this project tackles is effective array management across dif
 
 **By exploring and experimenting with this project, you can deepen your understanding of arrays and their applications across multiple data types. Feel free to contribute to or improve this project as you see fit. We aim to provide comprehensive solutions for your array manipulation needs.**
 
-**Thank you for choosing our data array management system. We hope it assists you in developing your array-handling skills and problem-solving abilities.**
+**Thank you for choosing my data array management system. I hope it assists you in developing your array-handling skills and problem-solving abilities.**
